@@ -8,13 +8,14 @@ namespace Exercicio01
 {
      class Peca
     {
-        public int QuantidaMaxima { get; set; }
+        public int QuantidadeMax { get; set; }
 
-        public int QuantidadeMinima { get; set; }
+        public int QuantidadeMin { get; set; }
 
-        public int EstoqueMedio()
+
+        public int CalculoEstoqueMedio()
         {
-            return (QuantidadeMinima + QuantidaMaxima)/2;
+            return (QuantidadeMax + QuantidadeMin) / 2;
         }
     }
 }

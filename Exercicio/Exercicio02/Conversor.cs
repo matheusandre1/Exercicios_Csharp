@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace Exercicio02
 {
-     class CotaDolar
+     class Conversor
     {
         public double Dolar { get; set; }
-        public double Cotacao { get; set;}
 
-        public double ConverterPraReal()
+        public  double Cotacao { get; set;}
+
+        public  double Conversao() 
         {
             return Dolar * Cotacao;
         }
+
+
     }
 }
