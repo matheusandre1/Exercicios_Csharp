@@ -79,7 +79,11 @@ Ao ser verificado o código e constatado que é um valor válido, o programa dev
  
  22 - Faça um programa que leia um número. Se positivo armazene-o em A, se for negativo, em B. No final mostrar o resultado.
 
- 23 - Escreva um programa que exiba as seguintes opções e realize os que se pede em cada uma delas: 1 – Adição 2 – Subtração 3 – Multiplicação 4 – Divisão.
+ 23 - Escreva um programa que exiba as seguintes opções e realize os que se pede em cada uma delas: 
+ 1 – Adição 
+ 2 – Subtração
+ 3 – Multiplicação 
+ 4 – Divisão.
  
  24 - Escreva um programa que leia dois números inteiros e apresente as opções para usuário escolher o que deseja realizar: 
  1 – Verificar se um dos números lidos é ou não múltiplo do outro 
@@ -93,5 +97,12 @@ Ao ser verificado o código e constatado que é um valor válido, o programa dev
  28 - Faça um programa para imprimir uma tabuada.
  29 - Escrever um programa que leia um conjunto de números positivos, e exiba se o número lido é par ou ímpar.
       Exiba ao final a soma total dos números pares lidos e também a soma dos números ímpares lidos.
- 
+	  
+ 30 - Escreva um programa que calcule e exiba a soma dos quadrados dos 20 primeiros números inteiros positivos ímpares a partir do número informado pelo usuário menor que 10 e maior que zero.
+ 31 - Escreva um programa que calcule e exiba a média da nota dos alunos de uma turma em uma prova. 
+ O número de alunos é desconhecido. Os dados de um aluno são:
+ número de matrícula e a sua nota na prova em questão.
+ 32 - Escreva um programa que leia um conjunto de números positivos e exiba o  menor e o maior.
+ Supomos que o número de elementos deste conjunto não é conhecido, e que um número negativo será utilizado para sinalizar o fim dos dados.
+ 33- Faça um programa que conte de 1 até 100 e a cada múltiplo de 10 exiba uma mensagem: "Múltiplo de 10"
  
