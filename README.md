@@ -104,5 +104,5 @@ Ao ser verificado o código e constatado que é um valor válido, o programa dev
  número de matrícula e a sua nota na prova em questão.
  32 - Escreva um programa que leia um conjunto de números positivos e exiba o  menor e o maior.
  Supomos que o número de elementos deste conjunto não é conhecido, e que um número negativo será utilizado para sinalizar o fim dos dados.
- 33- Faça um programa que conte de 1 até 100 e a cada múltiplo de 10 exiba uma mensagem: "Múltiplo de 10"
- 
+ 33 - Faça um programa que conte de 1 até 100 e a cada múltiplo de 10 exiba uma mensagem: "Múltiplo de 10"
+ 34 - Faça um programa que leia 10 valores inteiros e positivos e Encontre o maior valor, Encontre o menor valor e  Calcule a média dos números lidos.
