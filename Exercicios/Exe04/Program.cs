@@ -4,7 +4,7 @@ namespace Exe04
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Insira o valor para A:");
             double numA = Convert.ToInt32(Console.ReadLine());
